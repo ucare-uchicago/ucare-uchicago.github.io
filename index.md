@@ -5,5 +5,5 @@ See [How to use markdown](https://guides.github.com/features/mastering-markdown/
 ## Contents
 
 * Systems
-	** Cassandra
-		*** [3.11][systems/cassandra/3.11/index.md]
+  * Cassandra
+    * [3.11][systems/cassandra/3.11/index.md]
