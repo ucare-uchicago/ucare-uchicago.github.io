@@ -6,4 +6,4 @@ See [How to use markdown](https://guides.github.com/features/mastering-markdown/
 
 * Systems
   * Cassandra
-    * [3.11][/systems/cassandra/3.11/index.md]
+    * [3.11](systems/cassandra/3.11/index.md)
